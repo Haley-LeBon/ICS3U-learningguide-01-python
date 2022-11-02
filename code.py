@@ -1,8 +1,8 @@
 #!/usr/in/env python3
 
-# Created by: Haley
-#created on Oct 2022
-# This program is the "Space Aliens" program on the PyBage 
+# Created by: Haley Lebon
+# Created on: Oct 2022
+# This program is the "Space Aliens" program  on the PyBadge
 
 import ugame
 import stage
@@ -34,4 +34,8 @@ def game_scene():
 
 if __name__ == "__main__":
     game_scene()
+<<<<<<< HEAD
+=======
     
+
+>>>>>>> a9c144bb4bfec6aba02a6551e71ae35df42690a9
