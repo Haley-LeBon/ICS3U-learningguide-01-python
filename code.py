@@ -34,8 +34,3 @@ def game_scene():
 
 if __name__ == "__main__":
     game_scene()
-<<<<<<< HEAD
-=======
-    
-
->>>>>>> a9c144bb4bfec6aba02a6551e71ae35df42690a9
